@@ -1,0 +1,44 @@
+# Environment variables
+.env
+
+# Database
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local development settings
+local_settings.py
+
+# Logs
+*.log
+
+# Cache directories
+model_cache/
+.cache/
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Temporary files
+*.swp
+*.swo
+*~
